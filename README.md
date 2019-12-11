@@ -1,5 +1,7 @@
-![imgf logo](pictures/Vista_frontal.png)
 # my-first-project
+
+![imgf logo](pictures/Vista_frontal.png)
+
 #### 1. INFORMAÇÕES GERAIS
 
 Neste repositório estão presentes dado e metodologias utilizadas para a implementação do circuito de controle de um elevador alimentício.
