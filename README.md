@@ -1,3 +1,5 @@
+![img front](https://github.com/maods2/Automation_Projects/tree/master/pictures/Vista_frontal.png)
+# my-first-project
 #### 1. INFORMAÇÕES GERAIS
 
 Neste repositório estão presentes dado e metodologias utilizadas para a implementação do circuito de controle de um elevador alimentício.
