@@ -1,4 +1,4 @@
-![img front](https://github.com/maods2/Automation_Projects/tree/master/pictures/Vista_frontal.png)
+![imgf logo](pictures/Vista_frontal.png)
 # my-first-project
 #### 1. INFORMAÇÕES GERAIS
 
