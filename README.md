@@ -1,4 +1,4 @@
-# my-first-project
+# Projeto de Automação Elevador Alimentício
 
 ![imgf logo](pictures/Vista_frontal.png)
 
@@ -26,14 +26,30 @@ Nos itens a seguir serão mostrados os diagramas que compõe o projeto elétrico
 ##### 5.1 FLUXOGRAMA LÓGICO
 
 Na figura abaixo é proposto a lógica de funcionamento do Elevador Alimentício.
-![log logo](pictures/Vista_frontal.png)
+![logi logo](pictures/Vista_frontal.png)
 ##### 5.2 ESQUEMA CIRCUITO DE COMANDO
 No diagrama abaixo é possível observar a conexão dos dispositivos que estão presentes na malha de automação do sistema do elevador.
-
+![ele logo](pictures/diagramalog.PNG)
 ##### 5.3 ADAPTAÇÃO RELÉ
 Para adaptar a talha elétrica ao projeto do Elevador Alimentício foi necessário criar um circuito análogo ao circuito presente na botoeira da talha. Esse circuito foi implementado com um relé que é controlado por um Arduino Mega.
-
+![ele logo](pictures/rele.PNG)
 #### 6. LISTA DE EQUIPAMENTOS E INSTRUMENTOS
 
+![eq logo](pictures/tabela.PNG)
 #### 7. MODELAGEM SOLIDWORKS
+<i>Vista Isométrica traseira do elevador<i>
+  
+![tras logo](pictures/Vista_tras.png)
 
+***
+<i>Localização da chave fim de curso no primeiro andar<i>
+  
+![curso1 logo](pictures/FimdeCurso1Andar.png)
+***
+<i>Localização da chave fim de curso no segundo andar<i>
+  
+![curso2 logo](pictures/FimdeCurso2Andar.png)
+***
+#### 8. PROGRAMAÇÃO
+
+A [programação](http://wizards.herokuapp.com) foi desenvolvida na linguagem C++ para ser implementada num Arduino Mega
