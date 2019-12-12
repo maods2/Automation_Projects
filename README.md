@@ -1,3 +1,7 @@
+# my-first-project
+
+![imgf logo](pictures/Vista_frontal.png)
+
 #### 1. INFORMAÇÕES GERAIS
 
 Neste repositório estão presentes dado e metodologias utilizadas para a implementação do circuito de controle de um elevador alimentício.
@@ -22,7 +26,7 @@ Nos itens a seguir serão mostrados os diagramas que compõe o projeto elétrico
 ##### 5.1 FLUXOGRAMA LÓGICO
 
 Na figura abaixo é proposto a lógica de funcionamento do Elevador Alimentício.
-
+![log logo](pictures/Vista_frontal.png)
 ##### 5.2 ESQUEMA CIRCUITO DE COMANDO
 No diagrama abaixo é possível observar a conexão dos dispositivos que estão presentes na malha de automação do sistema do elevador.
 
