@@ -1,4 +1,4 @@
-// Código desenvolvido colvido com o objetivo de testar e calibrar
+// Código desenvolvido com o objetivo de testar e calibrar
 // a parada do elevador de acordo com o posicionamento das chaves
 // fim de curso. 
 // O teste é feito em um andar por vez.

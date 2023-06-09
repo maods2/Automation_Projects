@@ -18,6 +18,7 @@
 #define interruptPin2 19
 #define interruptPin3 20
 
+                  // Portas digitais que já foram usadas para os sinais dos Fim de curso e cores dos jampers
 #define ch_01 49 // 6 -> 35 -> 39 -> 41 -> 49(laranja)
 #define ch_02 51 //14 -> 32 -> 37 -> 28 -> 51(verde)
 #define ch_03 53 //15 -> 31 -> 36 -> 45 -> 53 (Branco)
